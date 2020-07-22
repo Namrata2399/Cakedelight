@@ -1,0 +1,98 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+img{
+    width:50px;
+
+}
+.navbar{
+    background-color: #ffe8df;
+}
+
+h1{
+    color: white;
+    font-family:'Merienda One', cursive; 
+}
+
+h2{
+
+    font-family:'Merienda One' , cursive; 
+    text-align: center;
+
+}
+h4{
+    color: white;
+    font-family:'Merienda One', cursive; 
+    }
+h5{
+    font-family: algerian;
+    color: cyan;
+}    
+
+.heading{
+    color: black;
+    font-family:'Merienda One', cursive;
+}
+
+p{
+   font-family: 'Roboto', sans-serif;
+}
+
+.about{
+  background-image: 
+}
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.border-primary{
+    background: #ffe8df;
+}
+
+.fa {
+  padding: 18px;
+  font-size: 100px;
+  width: 70px;
+  height: 50px;
+  text-align: center;
+  color: black;
+}
+
+
+
+.text{
+  color: black;
+}
+
+.float-md-right{
+    font-family: 'Roboto', sans-serif;
+    height: 100px;
+    color: black;
+}
+
+.footer-bottom{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.rounded{
+    width: 400px;
+    height: 250px;
+    position: relative;
+}
+
+
+
